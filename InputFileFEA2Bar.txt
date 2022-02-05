@@ -1,0 +1,21 @@
+Input Data for FEA Code: 
+Max. Force (Newton) = 2000
+Area of Bar 1 (mm^2) = 6
+Area of Bar 2 (mm^2) = 6
+Length of Bar 1 (mm) = 30
+Length of Bar 1 (mm) = 30
+Young's Modulus (GPa) = 120
+Yield Stress (MPa) = 240
+Viscosity (1/s) = 20
+Total Time (s) = 0.025
+Time Steps = 10000
+No. of Elements = 2
+Gauss Points, Weights = 1 , 2
+
+List of Areas after Seeding: 
+6
+6
+
+List of Lengths after Seeding: 
+30
+30

@@ -1,0 +1,2 @@
+Area of Element [0] = 6 Length of Element [0] = 30
+Area of Element [1] = 6 Length of Element [1] = 30

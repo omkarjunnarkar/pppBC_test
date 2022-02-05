@@ -1,0 +1,4 @@
+B - Matrix for Element [0] of length = 30 mm is : 
+-0.0333333  0.0333333
+B - Matrix for Element [1] of length = 30 mm is : 
+-0.0333333  0.0333333

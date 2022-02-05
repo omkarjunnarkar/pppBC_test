@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (FEA_2ELE_PROBLEM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\VariableBoundaryConditions2BarFEA\main.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\VariableBoundaryConditions2BarFEA\main.cpp(54,15): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Generating code
+  1 of 4634 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    69 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FEA_2ELE_PROBLEM.vcxproj -> E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\VariableBoundaryConditions2BarFEA\x64\Release\VariableBoundaryConditions2Bar.exe

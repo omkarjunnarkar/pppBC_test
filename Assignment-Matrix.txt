@@ -1,0 +1,6 @@
+Assignment Matrix for Element [0] in system of 2 Elements is :
+1 0 0
+0 1 0
+Assignment Matrix for Element [1] in system of 2 Elements is :
+0 1 0
+0 0 1

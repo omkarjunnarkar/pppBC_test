@@ -1,0 +1,11 @@
+﻿"User Input File, Change only the Values in First Column",
+2000,Maximum Force (Newton)
+6,C/S Area of Bar 1 (mm^2)
+6,C/S Area of Bar 2 (mm^2)
+30,Length of Bar 1 (mm^2)
+30,Length of Bar 2 (mm^2)
+120,Young's Modulus (GPa)
+0.025,"Total Time (it will be divided in 10,000 steps during Computation)"
+240,Yield Stress (MPa)
+20,Viscosity of Material (1/s)
+2,"Number of Elements (default=2, Homogenous Stress Distribution)"
